@@ -1,0 +1,11 @@
+Usuario
+    nome  Text
+    email Text
+    senha Text
+    UniqueEmailAdm email
+    deriving Show
+
+Produto 
+    nome  Text 
+    valor Double
+    deriving Show
